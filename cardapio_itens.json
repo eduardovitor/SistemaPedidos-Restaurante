@@ -1,0 +1,57 @@
+[
+    {
+      "nome": "Hamburguer X-tudo (ovos, salada, bacon, carne, maionese)",
+      "preço": 13.5,
+      "codigo": 3
+    },
+    {
+      "nome": "Hamburguer X-mínimo (ovos, salada, queijo)",
+      "preço": 7.5,
+      "codigo": 2
+    },
+    {
+      "nome": "Refrigerante Lata Kuat 350 ml",
+      "preço": 4,
+      "codigo": 5
+    },
+    {
+      "nome": "Refrigerante Coca Cola 350 ml",
+      "preço": 4,
+      "codigo": 6
+    },
+    {
+      "nome": "Pastel de frango com queijo",
+      "preço": 6,
+      "codigo": 7
+    },
+    {
+      "nome": "Pastel de carne moída",
+      "preço": 6,
+      "codigo": 9
+    },
+    {
+      "nome": "Pastel de camarão",
+      "preço": 9,
+      "codigo": 13
+    },
+    {
+      "nome": "Sopa de verduras",
+      "preço": 5.5,
+      "codigo": 15
+    },
+    {
+      "nome": "Quentinha de frango assado",
+      "preço": 18,
+      "codigo": 17
+    },
+    {
+      "nome": "Quentinha de boi acebolado",
+      "preço": 20,
+      "codigo": 22
+    },
+    {
+      "nome": "Coxinha de frango",
+      "preço": 7.5,
+      "codigo": 1
+    }
+  ]
